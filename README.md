@@ -1,4 +1,4 @@
-# Docker Workshop By RBK
+# Docker Workshop.
 
 > Simple example of a dockerized Nodejs/Mongodb app.
 
